@@ -17,13 +17,12 @@ Several UI Mods.
 
 Mod Index
 
-*   Realistic Wasteland Lighting Redesigned
-*   Bugout 76
-*   Modern Hud
-*   Realistic Weapon Name
-*   Capital Skies
-*   Nevada Skies
-*   Enhanced Hud Addition
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
 
 ```
 Permission:
