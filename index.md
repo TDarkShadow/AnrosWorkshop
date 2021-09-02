@@ -17,12 +17,15 @@ Several UI Mods.
 
 Mod Index
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| Name                                    | Version    |
+|:----------------------------------------|:-----------|
+| Captial Skies                           |         3.2|
+| Nevada Skies                            |Final Rework|
+| Modern Hud                              |        1.22|
+| Bugout 76                               |        1.13|
+| Realistic Weapon Names                  |       Final|
+| Realistic Wasteland Lighting Redesigned |         2.3|
+| Enhanced HUD Addition                   |Not Released|
 
 ```
 Permission:
