@@ -17,7 +17,13 @@ Several UI Mods.
 
 Mod Index
 
-
+*   Realistic Wasteland Lighting Redesigned
+*   Bugout 76
+*   Modern Hud
+*   Realistic Weapon Name
+*   Capital Skies
+*   Nevada Skies
+*   Enhanced Hud Addition
 
 ```
 Permission:
