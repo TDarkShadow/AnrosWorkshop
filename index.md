@@ -16,7 +16,9 @@ Mod Index
 
 
 
-```Permission:
+```
+Permission:
+
 I do not want that any of my Coentent is hosted on Nexus. Nor do i want that any of my content will be edited,
 changed or used, unless its a compatiblity patch.
 Contact me first on [Discord](./https://discord.gg/aNRkm9ezrR).
