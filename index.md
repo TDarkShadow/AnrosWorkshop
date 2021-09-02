@@ -27,7 +27,7 @@ Mod Index
 | Nevada Skies                            |Final Rework|
 | Modern Hud                              |        1.22|
 | Bugout 76                               |        1.13|
-| [Realistic Weapon Names ](./https://discord.gg/aNRkm9ezrR).                 |       Final|
+| [Realistic Weapon Names ](./https://anro19.github.io/AnrosWorkshop/RWN)                 |       Final|
 | Realistic Wasteland Lighting Redesigned |         2.3|
 | Enhanced HUD Addition                   |Not Released|
 ```
