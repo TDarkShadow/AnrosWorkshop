@@ -23,7 +23,11 @@ Mod Index
 
 | Name                                    | Version    |
 |:----------------------------------------|:-----------|
-| Captial Skies                           |         3.2|
+  Captial Skies                                     3.2
+|:----------------------------------------|:-----------|
+
+
+
 | Nevada Skies                            |Final Rework|
 | Modern Hud                              |        1.22|
 | Bugout 76                               |        1.13|
